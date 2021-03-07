@@ -1,0 +1,98 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="后台.master.cs" Inherits="后台" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>后台模板管理系统</title>
+<link type="text/css" rel="stylesheet" href="css/style2.css" />
+<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/menu.js"></script>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   
+  <div class="top"></div>
+<div id="header">
+	<div class="logo">后台管理系统</div>
+	<div class="navigation">
+		<ul>
+		 	<li>欢迎您！</li>
+			<li>管理员</li>					
+			<li><a href="AdminLogin.aspx">退出</a></li>
+		</ul>
+	</div>
+</div>
+<div id="content">
+	<div class="left_menu">
+				<ul id="nav_dot">
+      <li>
+          <h4 class="M1"><span></span>用户信息管理</h4>
+          <div class="list-item none">
+            <a href='添加用户信息.aspx'>添加用户信息</a>
+            <a href='删除用户信息.aspx'>删除用户信息</a>
+            <a href='修改用户信息.aspx'>修改用户信息</a>
+           
+          </div>
+        </li>
+                    <li>
+          <h4 class="M1"><span></span>玫瑰花信息管理</h4>
+          <div class="list-item none">
+            <a href='添加玫瑰花信息.aspx'>添加玫瑰花信息</a>
+            <a href='删除玫瑰花信息.aspx'>删除玫瑰花信息</a>
+            <a href='修改玫瑰花信息.aspx'>修改玫瑰花信息</a>
+           
+          </div>
+        </li>
+        <li>
+          <h4 class="M5"><span></span>康乃馨信息管理</h4>
+          <div class="list-item none">
+            <a href='添加康乃馨信息.aspx'>添加康乃馨信息</a>
+            <a href='删除康乃馨信息.aspx'>删除康乃馨信息</a>     
+            <a href='修改康乃馨信息.aspx'>修改康乃馨信息</a>
+               
+           </div>
+        </li>
+        <li>
+          <h4 class="M3"><span></span>向日葵信息管理</h4>
+          <div class="list-item none">
+            <a href='添加向日葵信息.aspx'>添加向日葵信息</a>
+            <a href='删除向日葵信息.aspx'>删除向日葵信息</a>
+            <a href='修改向日葵信息.aspx'>修改向日葵信息</a>
+          </div>
+        </li>
+				
+		<li>
+          <h4  class="M4"><span></span>管理员信息管理</h4>
+          <div class="list-item none">
+            <a href='添加管理员信息.aspx'>添加管理员信息</a>
+            <a href='删除管理员信息.aspx'>删除管理员信息</a>
+            <a href='修改管理员信息.aspx'>修改管理员信息</a>
+          </div>
+        </li>
+											
+  </ul>
+		</div>
+		<div class="m-right">
+			
+			<div class="main">
+				
+			</div>
+		</div>
+</div>
+<div class="bottom"></div>
+<div id="footer"><p> © COPYRIGHT 2018 POWERED BY 鲜花购买网</p></div>
+<script>navList(12);</script>
+   
+   
+     <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

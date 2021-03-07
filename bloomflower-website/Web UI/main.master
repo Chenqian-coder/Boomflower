@@ -1,0 +1,117 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="main.master.cs" Inherits="main" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    
+    <title></title>
+        
+        <link href="css/style.css" rel="stylesheet" type="text/css" />
+        
+        <script type="text/javascript" src="js/jquery-latest.min.js"></script>
+        <script type="text/javascript" src="js/plugins.js"></script>
+        <script type="text/javascript" src="js/script.js"></script>
+    <style>
+        body {
+             background-image:url(images/背景.jpg);
+
+        }
+
+    </style>
+    </head>
+    <body class="font3">
+        <div class="wrapper">
+            
+            <div class="custombg"></div>
+        </div>
+        <div class="borderline1"></div>
+        <div class="borderline2"></div>
+        <div class="wrapper">
+            <div class="header"><!-- HEADER START -->
+                <div class="logo">
+                   
+                </div>
+                
+                <div class="menuContainer">
+                    <ul class="menu font1">
+                        <li class="menuactive">
+                            <a href="Main.aspx">首页</a>
+                        </li>
+                        <li>
+                            <a href="Update.aspx">修改资料</a>
+                        </li>
+                        <li>
+                            <a href="Login.aspx">点我登录</a>
+                        </li>  
+                        
+                        <li>
+                            <a href="Regist.aspx">点我注册</a>
+                        </li>
+                       
+                    </ul>
+                   
+                </div>
+
+                  </div><!-- HEADER END -->
+        </div>
+        <div id="contents"><!-- CONTENTS START -->
+            <div class="wrapper">
+                <div class="mainSlider">
+                    <div class="mainSliderItemsWrapper">
+                        <div class="mainSliderItems">
+                            <div class="mainSliderItemsEntry mainSliderItemsEntryActive">
+                                <img class="mainSliderItemsEntryImg" src="images/滚动1.jpg" alt="" />
+                                
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="mainSliderNav">
+                        <div class="mainSliderNavBar bgcolor"></div>
+                    </div>
+                </div>
+            </div>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+            <body>
+                <form id="form1" runat="server">
+                    <div style="font-size: x-large; font-style: italic; font-variant: inherit; color: #FF6600">
+       
+       
+        &nbsp;<br />
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+            <p>
+                <br />
+            </p>
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    </div><!-- CONTENTS END -->
+        <div class="footerbg"><!-- FOOTER START -->
+            <div class="wrapper">
+                <div class="footer textcolor5">
+                    <div class="footerColumn1">
+                        <div class="widget1">
+                           
+                            <div class="widgetBody widgetPosts1">
+                                <div class="widgetPostsEntry">
+                                    
+                                    
+                                      
+                                        <div class="widgetPostsEntryBodyText">
+                                          <p> © COPYRIGHT 2018 POWERED BY 鲜花购买网</p>&nbsp; <br>
+										  
+                                    </div>
+                                </div>
+                                
+                        </div>
+                    
+            </div>
+        </div><!-- FOOTER END -->
+   
+</body>
+</html>

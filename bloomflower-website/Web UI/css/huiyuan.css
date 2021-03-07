@@ -1,0 +1,71 @@
+@charset "utf-8";
+#cotainer {
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#header {
+	height: 30px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/bg07.jpg);
+}
+#banner {
+	height: 400px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/bg02.jpg);
+}
+#menu {
+	height: 60px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/bg8.jpg);
+}
+#info {
+	height: 700px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/bg12.jpg);
+}
+#footer {
+	height: 90px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#navi a:link, #navi a:visited {
+	font-family: "华文行楷";
+	font-size: 36px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+	padding-top: 7px;
+	padding-right: 20px;
+	padding-bottom: 7px;
+	padding-left: 20px;
+	border-right-style: solid;
+	border-right-color: #FFF;
+}
+#navi a:hover {
+	font-family: "华文行楷";
+	font-size: 36px;
+	font-weight: bold;
+	color: #666;
+	background-color: #FC3;
+	padding-top: 7px;
+	padding-right: 20px;
+	padding-bottom: 7px;
+	padding-left: 20px;
+	background-image: url(../images/bg10.jpg);
+}
+#form {
+	height: 600px;
+	width: 700px;
+	padding-top: 100px;
+	padding-left: 100px;
+}

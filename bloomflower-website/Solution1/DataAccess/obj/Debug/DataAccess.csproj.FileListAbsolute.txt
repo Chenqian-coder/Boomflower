@@ -1,0 +1,48 @@
+D:\三层架构\Solution1\DataAccess\bin\Debug\DataAccess.dll
+D:\三层架构\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+D:\三层架构\Solution1\DataAccess\obj\Debug\DataAccess.dll
+D:\三层架构\Solution1\DataAccess\obj\Debug\DataAccess.pdb
+D:\三层架构\Solution1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\三层架构\Solution1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\admin\Desktop\三层架构\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\admin\Desktop\三层架构\Solution1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\admin\Desktop\三层架构\Solution1\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\admin\Desktop\三层架构-0412\Solution1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\admin\Desktop\三层架构-0412\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\admin\Desktop\三层架构-0412\Solution1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\admin\Desktop\三层架构-0412\Solution1\DataAccess\obj\Debug\DataAccess.pdb
+G:\三层架构-简单购物车\Solution1\DataAccess\bin\Debug\DataAccess.dll
+G:\三层架构-简单购物车\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+G:\三层架构-简单购物车\Solution1\DataAccess\obj\Debug\DataAccess.dll
+G:\三层架构-简单购物车\Solution1\DataAccess\obj\Debug\DataAccess.pdb
+G:\三层架构-简单购物车\Solution1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\DataAccess\bin\Debug\DataAccess.dll
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\DataAccess\obj\Debug\DataAccess.dll
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\DataAccess\obj\Debug\DataAccess.pdb

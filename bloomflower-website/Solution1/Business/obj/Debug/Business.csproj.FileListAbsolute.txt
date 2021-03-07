@@ -1,0 +1,142 @@
+D:\三层架构\Solution1\Business\bin\Debug\Business.dll
+D:\三层架构\Solution1\Business\bin\Debug\Business.pdb
+D:\三层架构\Solution1\Business\bin\Debug\DataAccess.dll
+D:\三层架构\Solution1\Business\bin\Debug\DataAccess.pdb
+D:\三层架构\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\三层架构\Solution1\Business\obj\Debug\Business.dll
+D:\三层架构\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\admin\Desktop\三层架构\Solution1\Business\bin\Debug\Business.dll
+C:\Users\admin\Desktop\三层架构\Solution1\Business\bin\Debug\Business.pdb
+C:\Users\admin\Desktop\三层架构\Solution1\Business\bin\Debug\DataAccess.dll
+C:\Users\admin\Desktop\三层架构\Solution1\Business\bin\Debug\DataAccess.pdb
+C:\Users\admin\Desktop\三层架构\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\三层架构\Solution1\Business\obj\Debug\Business.dll
+C:\Users\admin\Desktop\三层架构\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\admin\Desktop\三层架构\Solution1\Business\bin\Debug\Entity.dll
+C:\Users\admin\Desktop\三层架构\Solution1\Business\bin\Debug\Entity.pdb
+G:\三层架构-0412\Solution1\Business\bin\Debug\Business.dll
+G:\三层架构-0412\Solution1\Business\bin\Debug\Business.pdb
+G:\三层架构-0412\Solution1\Business\bin\Debug\DataAccess.dll
+G:\三层架构-0412\Solution1\Business\bin\Debug\Entity.dll
+G:\三层架构-0412\Solution1\Business\bin\Debug\DataAccess.pdb
+G:\三层架构-0412\Solution1\Business\bin\Debug\Entity.pdb
+G:\三层架构-0412\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+G:\三层架构-0412\Solution1\Business\obj\Debug\Business.dll
+G:\三层架构-0412\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\admin\Desktop\三层架构-0412\Solution1\Business\bin\Debug\Business.dll
+C:\Users\admin\Desktop\三层架构-0412\Solution1\Business\bin\Debug\Business.pdb
+C:\Users\admin\Desktop\三层架构-0412\Solution1\Business\bin\Debug\DataAccess.dll
+C:\Users\admin\Desktop\三层架构-0412\Solution1\Business\bin\Debug\Entity.dll
+C:\Users\admin\Desktop\三层架构-0412\Solution1\Business\bin\Debug\DataAccess.pdb
+C:\Users\admin\Desktop\三层架构-0412\Solution1\Business\bin\Debug\Entity.pdb
+C:\Users\admin\Desktop\三层架构-0412\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\三层架构-0412\Solution1\Business\obj\Debug\Business.dll
+C:\Users\admin\Desktop\三层架构-0412\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\admin\Desktop\三层架构-GridView字段\Solution1\Business\bin\Debug\Business.dll
+C:\Users\admin\Desktop\三层架构-GridView字段\Solution1\Business\bin\Debug\Business.pdb
+C:\Users\admin\Desktop\三层架构-GridView字段\Solution1\Business\bin\Debug\DataAccess.dll
+C:\Users\admin\Desktop\三层架构-GridView字段\Solution1\Business\bin\Debug\Entity.dll
+C:\Users\admin\Desktop\三层架构-GridView字段\Solution1\Business\bin\Debug\DataAccess.pdb
+C:\Users\admin\Desktop\三层架构-GridView字段\Solution1\Business\bin\Debug\Entity.pdb
+C:\Users\admin\Desktop\三层架构-GridView字段\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\三层架构-GridView字段\Solution1\Business\obj\Debug\Business.dll
+C:\Users\admin\Desktop\三层架构-GridView字段\Solution1\Business\obj\Debug\Business.pdb
+G:\三层架构-简单购物车\Solution1\Business\bin\Debug\Business.dll
+G:\三层架构-简单购物车\Solution1\Business\bin\Debug\Business.pdb
+G:\三层架构-简单购物车\Solution1\Business\bin\Debug\DataAccess.dll
+G:\三层架构-简单购物车\Solution1\Business\bin\Debug\Entity.dll
+G:\三层架构-简单购物车\Solution1\Business\bin\Debug\DataAccess.pdb
+G:\三层架构-简单购物车\Solution1\Business\bin\Debug\Entity.pdb
+G:\三层架构-简单购物车\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+G:\三层架构-简单购物车\Solution1\Business\obj\Debug\Business.dll
+G:\三层架构-简单购物车\Solution1\Business\obj\Debug\Business.pdb
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\Business\bin\Debug\Business.dll
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\Business\bin\Debug\Business.pdb
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\Business\bin\Debug\DataAccess.dll
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\Business\bin\Debug\Entity.dll
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\Business\bin\Debug\DataAccess.pdb
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\Business\bin\Debug\Entity.pdb
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\Business\obj\Debug\Business.dll
+D:\Users\NET实训课上\三层架构-简单购物车1516\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版\Solution1\Business\obj\Debug\Business.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版\Solution1\Business\bin\Debug\Business.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版\Solution1\Business\bin\Debug\Business.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版\Solution1\Business\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版\Solution1\Business\bin\Debug\Entity.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版\Solution1\Business\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版\Solution1\Business\bin\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\Business\bin\Debug\Business.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\Business\bin\Debug\Business.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\Business\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\Business\bin\Debug\Entity.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\Business\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\Business\bin\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\Business\obj\Debug\Business.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (2)\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (4) - 副本\Solution1\Business\bin\Debug\Business.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (4) - 副本\Solution1\Business\bin\Debug\Business.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (4) - 副本\Solution1\Business\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (4) - 副本\Solution1\Business\bin\Debug\Entity.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (4) - 副本\Solution1\Business\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (4) - 副本\Solution1\Business\bin\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (4) - 副本\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (4) - 副本\Solution1\Business\obj\Debug\Business.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (4) - 副本\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\Business\bin\Debug\Business.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\Business\bin\Debug\Business.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\Business\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\Business\bin\Debug\Entity.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\Business\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\Business\bin\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\Business\obj\Debug\Business.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (5) - 副本 - 副本\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (7) - 副本 - 副本 - 副本\Solution1\Business\bin\Debug\Business.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (7) - 副本 - 副本 - 副本\Solution1\Business\bin\Debug\Business.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (7) - 副本 - 副本 - 副本\Solution1\Business\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (7) - 副本 - 副本 - 副本\Solution1\Business\bin\Debug\Entity.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (7) - 副本 - 副本 - 副本\Solution1\Business\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (7) - 副本 - 副本 - 副本\Solution1\Business\bin\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (7) - 副本 - 副本 - 副本\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (7) - 副本 - 副本 - 副本\Solution1\Business\obj\Debug\Business.dll
+C:\Users\Administrator\Desktop\三层架构-简单购物测试版 - 副本 (7) - 副本 - 副本 - 副本\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现\Solution1\Business\bin\Debug\Business.dll
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现\Solution1\Business\bin\Debug\Business.pdb
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现\Solution1\Business\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现\Solution1\Business\bin\Debug\Entity.dll
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现\Solution1\Business\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现\Solution1\Business\bin\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现\Solution1\Business\obj\Debug\Business.dll
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\Business\bin\Debug\Business.dll
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\Business\bin\Debug\Business.pdb
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\Business\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\Business\bin\Debug\Entity.dll
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\Business\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\Business\bin\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\Business\obj\Debug\Business.dll
+C:\Users\Administrator\Desktop\逃之夭夭旅游网站的设计与实现 - 副本\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\Business\bin\Debug\Business.dll
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\Business\bin\Debug\Business.pdb
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\Business\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\Business\bin\Debug\Entity.dll
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\Business\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\Business\bin\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\Business\obj\Debug\Business.dll
+C:\Users\Administrator\Desktop\鲜花购买网站\Solution1\Business\obj\Debug\Business.pdb
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\Business\bin\Debug\Business.dll
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\Business\bin\Debug\Business.pdb
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\Business\bin\Debug\DataAccess.dll
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\Business\bin\Debug\Entity.dll
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\Business\bin\Debug\DataAccess.pdb
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\Business\bin\Debug\Entity.pdb
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\Business\obj\Debug\Business.dll
+C:\Users\LENOVO\Desktop\初见花卉鲜花购买网站\Solution1\Business\obj\Debug\Business.pdb
