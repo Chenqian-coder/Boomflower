@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage2.master.cs" Inherits="MasterPage2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="auto-style1">
+            <tr>
+                <td colspan="3" style="text-align: center">
+                    <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/Image/后台logo.jpg" CausesValidation="False" OnClick="ImageButton1_Click" />
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style2">
+                    <asp:ImageButton ID="ImageButton2" runat="server" CausesValidation="False" ImageUrl="~/Image/用户信息.jpg" OnClick="ImageButton2_Click" />
+                </td>
+                <td class="auto-style2">
+                    <asp:ImageButton ID="ImageButton3" runat="server" CausesValidation="False" ImageUrl="~/Image/小说信息.jpg" OnClick="ImageButton3_Click" />
+                </td>
+                <td class="auto-style2">
+                    <asp:ImageButton ID="ImageButton4" runat="server" CausesValidation="False" ImageUrl="~/Image/评论信息.jpg" OnClick="ImageButton4_Click" />
+                </td>
+            </tr>
+        </table>
+        <br />
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        <p style="text-align: right">
+            <asp:LinkButton ID="LinkButton11" runat="server" CausesValidation="False" OnClick="LinkButton11_Click">管理员信息管理</asp:LinkButton>
+        </p>
+    </form>
+</body>
+</html>

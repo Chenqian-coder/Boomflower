@@ -1,0 +1,99 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 299px;
+            text-align: center;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="text-align: right">
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style2">
+                    <asp:LinkButton ID="LinkButton2" runat="server" OnClick="LinkButton2_Click" CausesValidation="False">个人中心</asp:LinkButton>
+&nbsp;
+                    <asp:LinkButton ID="LinkButton3" runat="server" OnClick="LinkButton3_Click" CausesValidation="False">我的书架</asp:LinkButton>
+&nbsp;
+                    <asp:LinkButton ID="LinkButton4" runat="server" OnClick="LinkButton4_Click" CausesValidation="False">退出登录</asp:LinkButton>
+                </td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td style="text-align: center">
+                    <asp:LinkButton ID="Lbtn_register" runat="server" OnClick="Lbtn_register_Click" CausesValidation="False">注册</asp:LinkButton>
+                    &nbsp; <asp:LinkButton ID="Lbtn_login" runat="server" OnClick="Lbtn_login_Click" CausesValidation="False">登录</asp:LinkButton>
+                </td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" rowspan="2">
+                    <asp:ImageButton ID="ImageButton1" runat="server" Height="194px" ImageUrl="~/Image/logo.jpg" Width="343px" CausesValidation="False" OnClick="ImageButton1_Click" />
+                </td>
+                <td colspan="9" style="text-align: center">
+                    <asp:TextBox ID="tbSelectBook" runat="server" Height="31px" Width="561px"></asp:TextBox>
+                    <asp:ImageButton ID="ImageButton11" runat="server" CausesValidation="False" Height="39px" ImageUrl="~/Image/搜索2.jpg" Width="102px" OnClick="ImageButton11_Click" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:ImageButton ID="ImageButton2" runat="server" ImageUrl="~/Image/战斗.jpg" CausesValidation="False" OnClick="ImageButton2_Click" />
+                </td>
+                <td>
+                    <asp:ImageButton ID="ImageButton3" runat="server" ImageUrl="~/Image/冒险.jpg" OnClick="ImageButton3_Click" CausesValidation="False" />
+                </td>
+                <td>
+                    <asp:ImageButton ID="ImageButton4" runat="server" ImageUrl="~/Image/校园.jpg" CausesValidation="False" OnClick="ImageButton4_Click" />
+                </td>
+                <td>
+                    <asp:ImageButton ID="ImageButton5" runat="server" ImageUrl="~/Image/恋爱.jpg" CausesValidation="False" OnClick="ImageButton5_Click" />
+                </td>
+                <td>
+                    <asp:ImageButton ID="ImageButton6" runat="server" ImageUrl="~/Image/恐怖.jpg" CausesValidation="False" OnClick="ImageButton6_Click" />
+                </td>
+                <td>
+                    <asp:ImageButton ID="ImageButton7" runat="server" ImageUrl="~/Image/科幻.jpg" CausesValidation="False" OnClick="ImageButton7_Click" />
+                </td>
+                <td >
+                    <asp:ImageButton ID="ImageButton8" runat="server" ImageUrl="~/Image/鬼神.jpg" CausesValidation="False" OnClick="ImageButton8_Click" />
+                </td>
+                <td >
+                    <asp:ImageButton ID="ImageButton9" runat="server" ImageUrl="~/Image/搞笑.jpg" CausesValidation="False" OnClick="ImageButton9_Click" />
+                </td>
+                <td>
+                    <asp:ImageButton ID="ImageButton10" runat="server" ImageUrl="~/Image/其他.jpg" CausesValidation="False" OnClick="ImageButton10_Click" />
+                </td>
+            </tr>
+        </table>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <br />
+        <asp:Label ID="Label2" runat="server" Text="@Design
+
+ By 刘大鹏"></asp:Label>
+        <br />
+        <asp:Label ID="Label1" runat="server" Text=" 网页版 VerSion 2018.11.11.f1"></asp:Label>
+        <br />
+        <asp:LinkButton ID="LinkButton1" runat="server" style="text-align: center" CausesValidation="False" OnClick="LinkButton1_Click">后台入口</asp:LinkButton>
+    </div>
+    </form>
+</body>
+</html>

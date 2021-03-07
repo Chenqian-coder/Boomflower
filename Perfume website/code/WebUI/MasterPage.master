@@ -1,0 +1,135 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        body {
+            background-image:url('image/bg.jpg');
+        }
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 269px;
+        }
+        .auto-style4 {
+            width: 685px;
+        }
+        .auto-style5 {}
+        .auto-style6 {
+            width: 259px;
+        }
+        .auto-style7 {
+            width: 259px;
+            height: 44px;
+        }
+        .auto-style9 {
+            height: 23px;
+        }
+        .auto-style13 {
+            height: 24px;
+        }
+        .auto-style14 {
+            width: 180px;
+            height: 24px;
+        }
+        .auto-style15 {
+            width: 180px;
+        }
+        .auto-style19 {
+            width: 332px;
+        }
+        .auto-style20 {
+            width: 193px;
+            height: 24px;
+        }
+        .auto-style21 {
+            width: 193px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="auto-style1" style="border-color: #000000; background-color: #000000;">
+            <tr>
+                <td class="auto-style9" style="border-color: #000000; color: #FFFFFF;">&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:HyperLink ID="HyperLink1" runat="server" Font-Strikeout="False" ForeColor="White" NavigateUrl="~/Login.aspx">请登录 </asp:HyperLink>
+                    &nbsp;<asp:HyperLink ID="HyperLink2" runat="server" Font-Underline="False" ForeColor="White" NavigateUrl="~/Register.aspx">免费注册</asp:HyperLink>
+&nbsp; <asp:HyperLink ID="HyperLink9" runat="server" Font-Underline="False" ForeColor="White" NavigateUrl="~/MyInfo.aspx">个人中心</asp:HyperLink>
+&nbsp; <asp:HyperLink ID="HyperLink10" runat="server" Font-Underline="False" ForeColor="White" NavigateUrl="~/MyOrder.aspx">我的订单</asp:HyperLink>
+&nbsp;
+                    <asp:LinkButton ID="LinkButton5" runat="server" Font-Underline="False" ForeColor="White" OnClick="LinkButton5_Click" CausesValidation="False">退出登录</asp:LinkButton>
+                </td>
+            </tr>
+        </table>
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style2" rowspan="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+                <td class="auto-style7">&nbsp;</td>
+                <td rowspan="3" class="auto-style4">
+                    <asp:TextBox ID="TextBox1" runat="server" Height="31px" Width="561px"></asp:TextBox>
+                    <asp:Button ID="Button1" runat="server" BackColor="Black" BorderColor="Black" ForeColor="White" Height="37px" Text="搜索" Font-Size="Medium" Width="102px" OnClick="Button1_Click" CausesValidation="False" />
+                </td>
+                <td rowspan="3">&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/image/cart.png" OnClick="ImageButton1_Click" CausesValidation="False" />
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style7"><asp:Label id="Label1" runat="server" text="W X L I N" Font-Bold="True" Font-Size="40px" ForeColor="Black" CssClass="auto-style5"></asp:Label></td>
+            </tr>
+            <tr>
+                <td class="auto-style6"><span class="auto-style5">&nbsp;&nbsp;
+                    </span>
+                    <asp:Label ID="Label2" runat="server" Font-Bold="False" Font-Size="20px" Text="p e r f u m e" CssClass="auto-style5"></asp:Label>
+                </td>
+            </tr>
+            </table>
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style19" rowspan="2">&nbsp;</td>
+                <td class="auto-style20"></td>
+                <td class="auto-style14"></td>
+                <td class="auto-style14"></td>
+                <td class="auto-style14"></td>
+                <td class="auto-style13"></td>
+            </tr>
+            <tr>
+                <td class="auto-style21">
+                    <asp:HyperLink ID="HyperLink8" runat="server" Font-Bold="True" Font-Size="Large" Font-Underline="False" ForeColor="Black" NavigateUrl="~/Homepage.aspx">首页</asp:HyperLink>
+                </td>
+                <td class="auto-style15">
+                    <asp:LinkButton ID="LinkButton1" runat="server" Font-Bold="True" Font-Size="Large" Font-Underline="False" ForeColor="Black" OnClick="LinkButton1_Click" CausesValidation="False">全部商品</asp:LinkButton>
+                </td>
+                <td class="auto-style15">
+                    <asp:LinkButton ID="LinkButton2" runat="server" Font-Bold="True" Font-Size="Large" Font-Underline="False" ForeColor="Black" OnClick="LinkButton2_Click" CausesValidation="False">热销商品</asp:LinkButton>
+                </td>
+                <td class="auto-style15">
+                    <asp:LinkButton ID="LinkButton3" runat="server" Font-Bold="True" Font-Size="Large" Font-Underline="False" ForeColor="Black" OnClick="LinkButton3_Click" CausesValidation="False">男士香水</asp:LinkButton>
+                </td>
+                <td>
+                    <asp:LinkButton ID="LinkButton4" runat="server" Font-Bold="True" Font-Size="Large" Font-Underline="False" ForeColor="Black" OnClick="LinkButton4_Click" CausesValidation="False">女士香水</asp:LinkButton>
+                </td>
+            </tr>
+        </table>
+        <br />
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        <br />
+        <table class="auto-style1">
+            <tr>
+                <td style="background-color: #000000; color: #FFFFFF">
+                    <asp:HyperLink ID="HyperLink3" runat="server" Font-Underline="False" ForeColor="White" NavigateUrl="~/admin/AdminLogin.aspx">后台入口</asp:HyperLink>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>
